@@ -13,3 +13,5 @@ Please refer to the following list to see my open-source contributions
 Please refer to [this repository](https://github.com/vargind/hello-world-app) for further indications that I can write arbitrary code suitable for a pre-employment coding test.
 
 Please refer to my work github account [peterv-work](https://github.com/peterv-work) to see lots of pretty commit graphs (to private repos) for further evidence that I am competent enough to be worth employing.
+
+See also [peterv-bentley](https://github.com/peterv-bentley) for when I was doing paid development on open-source projects.
